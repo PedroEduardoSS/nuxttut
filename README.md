@@ -1,0 +1,2 @@
+# nuxttut
+Learning nuxt
