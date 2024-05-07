@@ -12,6 +12,7 @@ node_modules
 # Logs
 logs
 *.log
+bun.lockb
 
 # Misc
 .DS_Store
